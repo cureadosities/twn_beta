@@ -1,6 +1,6 @@
 # Time Without Numbers (TWN)
 
-> A non-numeric desktop timer and passive activity tracker designed to support people with dyscalculia and time blindness.
+A non-numeric desktop timer and passive activity tracker designed to support people with dyscalculia and time blindness.
 
 ![Screenshot](https://i0.wp.com/auliawiradarmo.blog/wp-content/uploads/2026/02/twn-_thumbnail.png?resize=1024%2C576&ssl=1)
 
