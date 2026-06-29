@@ -1,4 +1,4 @@
-# Time Without Numbers (TWN)
+# Time Without Numbers (TWN) - Beta
 
 A non-numeric desktop timer and passive activity tracker designed to support people with dyscalculia and time blindness.
 
